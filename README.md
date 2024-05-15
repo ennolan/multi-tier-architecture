@@ -13,7 +13,8 @@ This project allows us to deploy a highly available, scalable, and secure multi-
 - **Database Tier**: The database stores and manages our application data. In this architecture, we use Amazon RDS for a managed database service.
 
 ## 📌 Architecture Diagram
-![multi-tier-architecture]
+![multi-tier-architecture](https://github.com/ennolan/multi-tier-architecture/assets/65167049/f1d3d900-566e-4f55-a6b4-ed10ae10475c)
+
 
 ## 🚦 Getting Started
 
