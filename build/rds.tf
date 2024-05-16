@@ -1,5 +1,6 @@
 resource "aws_db_instance" "rds-db" {
   allocated_storage      = 10
+  storage_type         = "gp2"
   db_name                = var.db-name
   engine                 = "mysql"
   engine_version         = "5.7"
