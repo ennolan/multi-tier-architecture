@@ -49,7 +49,6 @@ variable "app-subnet2-name" {
   description = "Name for Application-tier Subnet-2"
 }
 
-
 variable "db-subnet1-cidr" {
   description = "CIDR Block for Database-tier Subnet-1"
 }
