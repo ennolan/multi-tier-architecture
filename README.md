@@ -4,7 +4,7 @@ Provision a scalable and resilient multi-tier architecture on AWS using Terrafor
 
 ## 🚀 Project Overview
 
-This project allows us to deploy a highly available, scalable, and secure multi-tier architecture on Amazon Web Services (AWS) using Terraform. The architecture consists of the following three tiers:
+This project allows us to provision a highly available, scalable, and secure multi-tier architecture on Amazon Web Services (AWS) using Terraform. The architecture consists of the following three tiers:
 
 - **Web Tier**: This tier handles incoming user requests and can be horizontally scaled for increased capacity. It typically includes web servers and a load balancer for distributing traffic.
 
