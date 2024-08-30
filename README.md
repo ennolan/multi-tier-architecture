@@ -1,6 +1,6 @@
 # Multi-Tier Architecture on AWS with Terraform
 
-Deploy a scalable and resilient multi-tier architecture on AWS using Terraform.
+Provision a scalable and resilient multi-tier architecture on AWS using Terraform.
 
 ## 🚀 Project Overview
 
